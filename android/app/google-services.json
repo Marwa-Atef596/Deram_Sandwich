@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154324556125",
+    "project_id": "dream-sandwich-d9efb",
+    "storage_bucket": "dream-sandwich-d9efb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154324556125:android:54b38a08940d522848f0b4",
+        "android_client_info": {
+          "package_name": "com.example.dream_sandwich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154324556125-9u2dl0qtun7fq6juui0ucr15hqhc91q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Lm2F0qKR9HC4ilkq6Z8Fz3qXQPmSYB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154324556125-9u2dl0qtun7fq6juui0ucr15hqhc91q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
